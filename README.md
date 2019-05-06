@@ -7,5 +7,6 @@
    - Client gives answer to questions and gets his/her points. 
 
 ## Network Analyzing with Wireshark
-
-   
+   - [How to analyze packets with wireshark ?](network-analyzing/)
+   - project.pdf includes description of the project.
+   - solutions.pdf includes project solutions and how to analyze network packets with Wireshark. 
